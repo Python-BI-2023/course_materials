@@ -93,7 +93,7 @@ change_fasta_start_pos(Ввод, -1, output_fasta)
 
 - За чтение и запись FASTQ - **2 балла**
 - За `convert_multiline_fasta_to_oneline` - **4 балла**
-- За `parse_blast_output` - **4 балла**
+- За `select_genes_from_gbk_to_fasta` - **4 балла**
 - За доп. функции - *по 2 доп. балла.* 
 
 
