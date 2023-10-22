@@ -1,0 +1,13 @@
+Charles Darwin: "7(911) 345-34-56"
+Gregor Mendel: "7(923)355-56-53"
+Rosalind Franklin: "+7(923)355-56-53"
+Barbara McClintock: "8(988)245 45 32"
+James Watson: "88005553535"
+Francis Crick: "+7 921 445 43 22"
+The numbers below are WRONG
+Some broken number: "+7(666)666-66"
+Some broken number: "+7(666)66-66"
+Some broken number: "+7(666)666 66 66 66"
+Some broken number: "8(66)666-66-66"
+Some broken number: "7(6)6-6-6"
+Some broken number: "+8(666)666-66-66"
